@@ -5,51 +5,52 @@
   <body style="               background-color: rgba(0, 0, 0, 1);" vlink="#808080"
 
     link="#00C0C0" alink="#FF0000"> 
-    <hr style="height: 2px; color: orange;">
+    <hr style="height: 8px; color: darkblue;">
     <div style="text-align: center;"><img src="main-title.png" alt="CrAzY"></div>
     <div style="text-align: center;"><br>
-      <hr style="height: 2px; color: orange;">
-      <h1> <font color="orange">- Projects -</font></h1>
+      <hr style="height: 8px; color: darkblue;">
+      <h1> <font color="royalblue">- Projects -</font></h1>
       <hr style="height: 16px; color: yellow;">
       <h1> <code><font color="yellow">Unity</font></code></h1>
       <hr style="height: 2px; color: yellow;">
-      <h2> <font color="grey">Untitled VR Game</font></h2>
-      <h4> <font color="white">PC VR experience that is heavily focused on
+      <h2> <font color="white">Untitled VR Game</font></h2>
+      <h4> <font color="grey">PC VR experience that is heavily focused on
           user-generated content.</font></h4>
       <h3> <a href="https://github.com/CrAzYiNeSs"><font color="purple">Website</font></a></h3>
-      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="green">GitHub</font></a></h3>
+      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="chartreuse">GitHub</font></a></h3>
       <hr style="height: 2px; color: yellow;">
-      <h2> <font color="grey">Mini-Max</font></h2>
-      <h4> <font color="white">A mobile title that is a collection of
+      <h2> <font color="white">Mini-Max</font></h2>
+      <h4> <font color="grey">A mobile title that is a collection of
           fast-paced micro &amp; mini games.</font></h4>
       <h3> <a href="https://github.com/CrAzYiNeSs"><font color="purple">Website</font></a></h3>
-      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="green">GitHub</font></a></h3>
+      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="chartreuse">GitHub</font></a></h3>
       <hr style="height: 2px; color: yellow;">
-      <h2> <font color="grey">Wave~Caster</font></h2>
-      <h4> <font color="white">A standalone audio player that emulates a radio
+      <h2> <font color="white">Wave~Caster</font></h2>
+      <h4> <font color="grey">A standalone audio player that emulates a radio
           broadcast based on user-generated playlists.</font></h4>
       <h3> <a href="https://github.com/CrAzYiNeSs"><font color="purple">Website</font></a></h3>
-      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="green">GitHub</font></a></h3>
+      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="chartreuse">GitHub</font></a></h3>
       <hr style="height: 2px; color: yellow;">
-      <h2> <font color="grey">ReAction</font></h2>
-      <h4> <font color="white">Attempt to recreate File System Navigator (fsn),
+      <h2> <font color="white">ReAction</font></h2>
+      <h4> <font color="grey">Attempt to recreate File System Navigator (fsn),
           made by SGI for IRIX systems.</font></h4>
       <h3> <a href="https://github.com/CrAzYiNeSs"><font color="purple">Website</font></a></h3>
-      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="green">GitHub</font></a></h3>
+      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="chartreuse">GitHub</font></a></h3>
       <hr style="height: 2px; color: yellow;">
-      <hr style="height: 16px; color: cyan;">
-      <h1> <code><font color="cyan">Source Engine</font></code></h1>
-      <hr style="height: 2px; color: cyan;">
-      <h2> <font color="grey">Momentumized</font></h2>
-      <h4> <font color="white">Complete puzzle chambers utilizing a variety of
+      <hr style="height: 16px; color: darkgoldenrod;">
+      <h1> <code><font color="darkgoldenrod">Source Engine</font></code></h1>
+      <hr style="height: 2px; color: darkgoldenrod;">
+      <h2> <font color="white">Momentumized</font></h2>
+      <h4> <font color="grey">Complete puzzle chambers utilizing a variety of
           mechanics catering to speedy movement.</font></h4>
       <h3> <a href="https://github.com/CrAzYiNeSs"><font color="purple">Website</font></a></h3>
-      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="green">GitHub</font></a></h3>
-      <hr style="height: 2px; color: cyan;"> </div>
+      <h3> <a href="https://github.com/CrAzYiNeSs"><font color="chartreuse">GitHub</font></a></h3>
+      <hr style="height: 2px; color: darkgoldenrod;"> </div>
     <font color="white">
       <hr style="height: 32px; color: white;"> </font>
     <center>
       <p><a href="https://github.com/CrAzYiNeSs"> <img src="github-logo-white.png"
+
             alt="github.com/CrAzYiNeSs" height="102" width="250"> </a></p>
     </center>
     <hr style="height: 32px; color: white;"> <br>
